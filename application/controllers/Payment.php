@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-
+// Test Github
 class Payment extends CI_Controller {
 
 	public function __construct()
